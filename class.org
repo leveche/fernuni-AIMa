@@ -1,0 +1,19 @@
+#+TITLE: Algorithmische Mathematik. Kurs 01142
+#+STARTUP: indent
+#+OPTIONS: toc:nil num:nil
+#+LaTeX_CLASS_OPTIONS: [article,letterpaper,times,10pt,margin=0.7in]
+#+LATEX_HEADER: \usepackage[margin=0.7in]{geometry}
+#+LaTeX_HEADER: \usepackage{lastpage}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{bbm}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+LATEX_HEADER: \chead{} %%AUTHOR%%
+#+LATEX_HEADER: \lhead{total pages: \pageref{LastPage}}
+#+LATEX_HEADER: \rhead{this is page \thepage}
+#+LATEX_HEADER: \lfoot{}
+#+LATEX_HEADER: \cfoot{FernUni AIMa, Kurs 01142}
+#+LATEX_HEADER: \rfoot{}
+#+LATEX: \renewcommand{\footrulewidth}{0.4pt}
+#+LATEX: \linespread{1.5}
+
