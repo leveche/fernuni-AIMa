@@ -17,3 +17,34 @@
 #+LATEX: \renewcommand{\footrulewidth}{0.4pt}
 #+LATEX: \linespread{1.5}
 
+* KE1: Grundlagen
+* KE2: Ordnung. Graphen
+* KE3: Bäume und Matchings
+* KE4: Numerik und Lineare Algebra
+** B-Adische Darstellung
+- Satz: Existenz und Eindeutigkeit einer B-Adischen Darstellung
+** Fehlerquellen
+- Satz: Rundung-Fehlerschranken
+** Gaußelimination, LU-Zerlegung
+** Gauß-Jordan Algorithmus
+** Cholesky-Faktoring
+** Matrixnormen
+** Kondition
+** Aufgaben
+*** Einsendeaufgaben 2013
+**** E 4.1
+- $117.2_{10}$ ins 2er, 3er, 5er, 11er-System
+  - $117 = 2^6 + 2^5 + 2^4 + 0 + 2^3 + 0 + 2^1 + 2^0 = 1110101_2$
+  - $0.2 = \frac{2}{5}$
+  - $2 = 10_2, 5 = 101_2$
+  - Long divison: $10_2 / 101_2  = 0.\bar{0011}$
+  - Also $117.2_10  = 1110101.\bar{0011}_2$
+- $117.2_{10}$ ins 8-er und 9-er System
+- 22.\bar{13}_10$ ins 9er-System
+**** E 4.2
+- Die /Gesamtnorm/ $||\cdot||_G$ auf $\mathbbm{R}^{n\times n}$:
+  $||(a_{ij})|_{i,j}||_G := n\cdot \max_{1\leq i,j\leq n} |a_{ij}| ist eine Norm.
+
+* KE5: Nichtlineare Optimierung
+* KE6: Numerische Verfahren zur nichtlinearen Optimierung
+* KE7: Lineare Optimierung
